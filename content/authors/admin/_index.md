@@ -73,6 +73,8 @@ awards:
     date: '2022-09-15'
     awarder: Ministry of Education of the People’s Republic of China
 
+---
+
 ## About Me
 
 Jiangtong Li (李江彤) is currently a postdoctoral associate, supervised by [Prof. Changjun Jiang](https://see.tongji.edu.cn/info/1233/7514.htm) at Department of [Computer Science and Technology](https://cs.tongji.edu.cn/) of [Tongji University](https://www.tongji.edu.cn/) (同济大学), Shanghai, China. His research interests include multi-modal modeling, large language model, graph learning, and big data in financial.
