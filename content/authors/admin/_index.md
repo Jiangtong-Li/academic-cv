@@ -64,13 +64,13 @@ work:
 
 awards:
   - title: 'Outstanding PhD Graduate in Shanghai'
-    date: '2024-04'
+    date: '2024-04-28'
     awarder: Shanghai Municipal Education Commission
   - title: 'Yang Yuanqing Excellent PhD Student Scholarship'
-    date: '2023-08'
+    date: '2023-08-20'
     awarder: Department of Computer Science, Shanghai Jiao Tong University
   - title: 'National Scholarship (PhD Students)'
-    date: '2022-09'
+    date: '2022-09-15'
     awarder: Ministry of Education of the People’s Republic of China
 
 ## About Me
