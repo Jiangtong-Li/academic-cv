@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李江彤
+title: Jiangtong Li (李江彤)
 
 # Full name (for SEO)
 first_name: Jiangtong
