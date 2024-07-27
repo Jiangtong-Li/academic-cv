@@ -2,6 +2,9 @@
 # Display name
 title: Jiangtong Li (李江彤)
 
+# Name pronunciation (optional)
+name_pronunciation: Jiangtong Li
+
 # Full name (for SEO)
 first_name: Jiangtong
 last_name: Li
